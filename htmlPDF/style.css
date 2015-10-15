@@ -6,11 +6,13 @@
 
 
 body {
+	background: #FFF1D6 url(images/noise.png);
 	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 	line-height: 1.6;
 }
 
 .place{
+	background-color: #FFF;
 	border-color: #CCC #999 #999 #CCC;
 	border: 1px solid #CCC;
 	margin-bottom: 20px;
@@ -20,4 +22,19 @@ body {
 .place h2 {
 	border-bottom: 1px dashed #7E9F19;
 	margin: 0;
+}
+
+.place a{
+	color: #2C88A7;
+	font-weight: bold;
+}
+
+h1{
+	color: #7E9F19;
+	text-decoration: none;
+}
+
+h1:hover {
+	background-color: #7E9F19;
+	color: #FFF;
 }
