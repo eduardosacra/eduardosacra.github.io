@@ -1,0 +1,13 @@
+{
+	"name": "Eu amo São Paulo",
+		"description": "Apresentar os melhores (na minha visão) da cidade de São Paulo",
+		"authors":[
+			{
+				"name":"Eduardo Sacramento de Sousa",
+				"email":"eduardo.sacra.sousa@gmail.com"
+			}
+		],
+	"require":{
+		"php": ">=5.2.8"
+	}
+}
